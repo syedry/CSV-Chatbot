@@ -12,4 +12,4 @@ langchain-openai - ChatOpenAI
 langchain_experimental.agents.agent_toolkits - pandas_dataframe_agent
 
 
-NOTE : Th langchain_experimental is a temporary dependency as langchain community is working on building new updates on the same. Future releases may render the toolkit unavailable. Check https://python.langchain.com/v0.2/api_reference/experimental/index.html for more information.
+NOTE : The langchain_experimental is a temporary dependency as langchain community is working on building new updates on the same. Future releases may render the toolkit unavailable. Check https://python.langchain.com/v0.2/api_reference/experimental/index.html for more information.
